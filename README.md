@@ -1,5 +1,5 @@
 # Important
-OpenAI gym is not performance optimized, use [AtariKit](https://github.com/Octadero/GymClient) instead that project.
+OpenAI gym is not performance optimized, use [AtariKit](https://github.com/Octadero/AtariKit) instead that project.
 
 # GymClient
 
