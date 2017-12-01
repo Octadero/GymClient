@@ -1,3 +1,6 @@
+# Important
+OpenAI gym is not performance optimized, use [AtariKit](https://github.com/Octadero/GymClient) instead that project.
+
 # GymClient
 
 This project provides an access to the [gym](https://github.com/openai/gym) open-source library, by REST API allowing development in languages [Swift](https://developer.apple.com/swift/).
